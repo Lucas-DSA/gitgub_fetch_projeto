@@ -1,4 +1,4 @@
-<h1>Projeto Slide com JS</h1> 
+<h1>Projeto etch com GitHub</h1> 
 <img src="src/api gitghub.gif">
 
 <h2>O Projeto</h2>
